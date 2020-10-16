@@ -1,11 +1,7 @@
 
 <img src="./img/win.png">
 
-# Hi, I'm WinGamer! :D
-
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/WinG4mer)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fagnerpsantos)](https://twitter.com/WinGamerYT)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/TreinaWeb)](https://www.youtube.com/c/CoisasDeWindows)
 
-### About me
-I'm a Discord developer, i'm Foxy Owner too, my Discord is WinGamer#4285
