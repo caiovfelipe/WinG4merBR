@@ -1,6 +1,7 @@
 <h1> Olá, eu sou WinGamer, seja bem vindo ao meu GitHub! <h1>
 
-## About me 
+## Sobre Mim
+
 Meu nome é Vitor, sou desenvolvedor de bot da Discord, moro em São Paulo, SP. Meu perfil Discord é WinGamer#4285, adicione meu bot Discord clicando <a href="https://discord.com/api/oauth2/authorize?client_id=737044809650274325&permissions=8&scope=bot">aqui</a>
 
 <a href="https://discord.gg/hAXjy6h">Meu Servidor no Discord</a>
