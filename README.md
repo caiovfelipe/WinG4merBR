@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-Sou desenvolvedor de bot do Discord, moro em São Paulo, SP. Meu perfil Discord é WinGamer#4285, adicione meu bot Discord clicando <a href="https://discord.com/api/oauth2/authorize?client_id=737044809650274325&permissions=8&scope=bot">aqui</a>
+Sou desenvolvedor de bot para Discord, moro em São Paulo, SP. Meu perfil Discord é WinGamer#4285, adicione meu bot Discord clicando <a href="https://discord.com/api/oauth2/authorize?client_id=737044809650274325&permissions=8&scope=bot">aqui</a>
 
 <a href="https://discord.gg/TXu8Xgh">Meu Servidor no Discord</a>
 
