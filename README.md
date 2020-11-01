@@ -1,4 +1,4 @@
-<h1> Olá, eu sou WinGamer, seja bem vindo ao meu GitHub! <h1>
+<h1> Olá, eu sou WinGamer! <h1>
 
 ## Sobre Mim
 
