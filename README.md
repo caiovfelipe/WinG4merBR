@@ -1,7 +1,8 @@
 <h1> Olá, eu sou WinGamer! <h1>
 
 ## Sobre Mim
-
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=WinG4mer&show_icons=true&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WinG4mer&layout=compact&theme=dracula)
 Sou desenvolvedor de bot para Discord, moro em São Paulo, SP. Meu perfil Discord é WinGamer#4285, adicione meu bot Discord clicando <a href="https://discord.com/api/oauth2/authorize?client_id=737044809650274325&permissions=8&scope=bot">aqui</a>
 
 <a href="https://discord.gg/TXu8Xgh">Meu Servidor no Discord</a>
