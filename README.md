@@ -11,5 +11,5 @@ Sou desenvolvedor de bot para Discord, moro em São Paulo, SP. Meu perfil Discor
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/WinGamerYT)](https://twitter.com/WinGamerYT)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/c/CoisasDeWindows)](https://www.youtube.com/c/CoisasDeWindows)
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=WinG4mer&show_icons=true&theme=dracula)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WinG4mer&layout=compact&theme=dracula)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=WinG4merBR&show_icons=true&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WinG4merBR&layout=compact&theme=dracula)
