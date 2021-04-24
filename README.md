@@ -18,6 +18,7 @@
     <a href="https://www.typescriptlang.org/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="50" height="50">
     </a>
+      
 </p>
 <h3 align="left">🔨 <b>|</b> Ferramentas</h3>
 <p align="left">
@@ -36,6 +37,9 @@
   <a href="https://winscp.net" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/WinSCP_Logo.png" width="50" height="50">
   </a>
+   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+   <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+   </a>
 </p>
 <br>
 
