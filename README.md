@@ -47,6 +47,7 @@
    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
    <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
    </a>
+   <a href="https://www.youtube.com/watch?v=93g-1CC8F44" target="_blank"> <img src="https://static.wixstatic.com/media/2cd43b_1ccfe45b1147414abec8204d445b1e28~mv2.png/v1/fill/w_300,h_277,fp_0.50_0.50/2cd43b_1ccfe45b1147414abec8204d445b1e28~mv2.png" alt="cannabis" width="40" height="40"/> </a>
 </p>
 <h3 align="left"> 📱 <b>|</b> Contato </h3>
 <ul align="left">
