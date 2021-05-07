@@ -37,7 +37,7 @@
                 <a href="https://visualstudio.microsoft.com/pt-br/downloads/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png" width="50" height="50">
     </a>
-               <a href="https://docs.microsoft.com/pt-br/cpp/cpp/?view=msvc-160" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" alt="intellij" width="50" height="50"/>
+               <a href="https://www.jetbrains.com/pt-br/idea/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" alt="intellij" width="50" height="50"/>
    </a>
     <a href="https://github.com/microsoft/terminal" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Windows_Terminal_Logo_256x256.png" width="50" height="50">
