@@ -51,7 +51,7 @@
 </p>
 <h3 align="left"> 📱 <b>|</b> Contato </h3>
 <ul align="left">
-    <li>Discord: <a href="https://discord.com/users/708493555768885338">WinG4merBR#8379</a></li>
+    <li>Discord: <a href="https://discord.com/users/708493555768885338">WinG4merBR#7661</a></li>
     <li>Twitter: <a href="https://twitter.com/WinG4merBR">@WinG4merBR</a></li>
 </ul>
 <br>
