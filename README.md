@@ -27,9 +27,9 @@
     <a href="https://www.microsoft.com/pt-br/windows" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Windows_logo_-_2012_%28dark_blue%29.svg/1200px-Windows_logo_-_2012_%28dark_blue%29.svg.png" width="50" height="50">
     </a>
-    <a href="https://ubuntu.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/zEneeergy/zEneeergy/master/assets/ubuntu.png" width="50" height="50">
-    </a>
+<a href="https://www.debian.org/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Debian_logo.png" width="45" height="50">
+   </a>
     <a href="https://visualstudio.microsoft.com/pt-br/vs/community/" target="_blank">
         <img src="https://raw.githubusercontent.com/zEneeergy/zEneeergy/master/assets/vs2019.png" width="50" height="50">
     </a>
