@@ -3,7 +3,7 @@
 <p align="left">
    Olá eu sou WinG4merBR(Vitor)! Eu sou o criador da Foxy, atualmente estou estudando C++ com o <a href="https://github.com/zEneeergy">zEneeergy</a>
 
-<h3 align="left">🔨 <b>|</b> Linguagens</h3>
+   <h3 align="left">🔨 <b>|</b> Linguagens</h3>
 <p align="left">
       <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width="50" height="50">
@@ -22,6 +22,15 @@
     </a>
 </p>
 
+<details>
+  <summary>😛 | Pretendo estudar</summary>
+  <ul>
+      <li>C++</li>
+     <li>Java</li>
+     <li>Kotlin</li>
+     <li>React</li>
+  </ul>
+</details>
 <h3 align="left">🔨 <b>|</b> Ferramentas</h3>
 <p align="left">
     <a href="https://www.microsoft.com/pt-br/windows" target="_blank">
