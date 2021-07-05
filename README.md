@@ -59,10 +59,3 @@
     <li>Discord: <a href="https://discord.com/users/708493555768885338">WinG4merBR#1337</a></li>
     <li>Twitter: <a href="https://twitter.com/WinG4merBR">@WinG4merBR</a></li>
 </ul>
-<br>
-
-![Discord Presence](https://discord.c99.nl/widget/theme-1/708493555768885338.png)
-<br>
-<br>
-![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=WinG4merBR&langs_count=3&theme=dark)
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=WinG4merBR&show_icons=true&theme=dark)
