@@ -33,12 +33,12 @@
 </details>
 <h3 align="left">🔨 <b>|</b> Ferramentas</h3>
 <p align="left">
-    <a href="https://www.microsoft.com/pt-br/windows/windows-11" target="_blank">
-        <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f6677ab5-a6d9-4a6b-8113-30699b57ff9c/dellklb-5bd4f5cf-e109-4ca4-bfbd-c126f46400a1.png/v1/fill/w_1280,h_1280,strp/windows_11_new_logo_by_matthewtaehyung83197_dellklb-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI4MCIsInBhdGgiOiJcL2ZcL2Y2Njc3YWI1LWE2ZDktNGE2Yi04MTEzLTMwNjk5YjU3ZmY5Y1wvZGVsbGtsYi01YmQ0ZjVjZi1lMTA5LTRjYTQtYmZiZC1jMTI2ZjQ2NDAwYTEucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.5YwUe8aI58SLF5F2GNguxpYYM1LLd_2wGDUoJRW_OS0" width="50" height="50">
-    </a>
-    <a href="https://www.debian.org/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Debian_logo.png" width="50" height="50">
-    <a href="https://visualstudio.microsoft.com/pt-br/vs/community/" target="_blank">
+    <a href="https://www.microsoft.com/pt-br/windows" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Windows_logo_-_2012_%28dark_blue%29.svg/1200px-Windows_logo_-_2012_%28dark_blue%29.svg.png" width="50" height="50"> </a>
+    <a href="https://ubuntu.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/zEneeergy/zEneeergy/master/assets/ubuntu.png" width="50" height="50">
+   </a>
+       <a href="https://visualstudio.microsoft.com/pt-br/vs/community/" target="_blank">
         <img src="https://raw.githubusercontent.com/zEneeergy/zEneeergy/master/assets/vs2019.png" width="50" height="50">
     </a>
     <a href="https://code.visualstudio.com/" target="_blank">
@@ -53,6 +53,8 @@
    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
    <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
    </a>
+       <a href="https://mongodb.com" target="_blank"> <img src="https://img.icons8.com/color/452/mongodb.png" width="40" height="40"/>
+          </a>
 </p>
 <h3 align="left"> 📱 <b>|</b> Contato </h3>
 <ul align="left">
