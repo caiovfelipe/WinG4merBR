@@ -22,10 +22,9 @@
 <details>
   <summary>😛 | Pretendo estudar</summary>
   <ul>
+     <li>C</li>
+     <li>Assembly</li>
       <li>C++</li>
-     <li>Java</li>
-     <li>Kotlin</li>
-     <li>React</li>
      <li>TypeScript</li>
   </ul>
 </details>
