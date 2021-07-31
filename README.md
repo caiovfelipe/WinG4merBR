@@ -1,7 +1,7 @@
 <h1>🦊 | Olá! </h1>
 
 <p align="left">
-   Olá eu sou WinG4merBR(Vitor)! Eu sou o criador da Foxy, Tenho 15 anos e estou estudando C++ com o <a href="https://github.com/zEneeergy">zEneeergy</a>
+   Olá eu sou WinG4merBR(Vitor)! Eu sou o criador da Foxy, Tenho 15 anos e estou estudando C/C++ com o <a href="https://github.com/zEneeergy">zEneeergy</a>
 
    <h3 align="left">🔨 <b>|</b> Linguagens</h3>
 <p align="left">
