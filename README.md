@@ -14,9 +14,6 @@
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="50" height="50">
     </a>
-          <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank">
-        <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="45" height="50">
-    </a>
 </p>
 
 <details>
