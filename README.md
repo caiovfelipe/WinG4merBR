@@ -21,7 +21,7 @@
      <li>C</li>
       <li>C++</li>
      <li>C#</li>
-     <li>Java<li>
+     <li>Java</li>
   </ul>
 </details>
 <h3 align="left">🔨 <b>|</b> Ferramentas</h3>
