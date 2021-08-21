@@ -32,7 +32,7 @@
         <img src="./assets/img/ubuntu.png" width="50" height="50">
    </a>
        <a href="https://visualstudio.microsoft.com/pt-br/vs/community/" target="_blank">
-        <img src="./assets/img/vs2019.png" width="50" height="50">
+        <img src="./assets/img/preview-vs.png" width="50" height="50">
     </a>
     <a href="https://code.visualstudio.com/" target="_blank">
         <img src="./assets/img/vscode.png" width="50" height="50">
