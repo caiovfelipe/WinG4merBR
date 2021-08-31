@@ -1,6 +1,6 @@
 <h1>🦊 | Olá! </h1>
 
-<p>Olá! Eu sou o WinG4merBR(Vitor) sou o criador da <a href="https://foxywebsite.ml">Foxy</a>
+<p>Olá! Eu sou o Win(Vitor) sou o criador da <a href="https://foxywebsite.ml">Foxy</a>
 
    <h3 align="left">🔨 <b>|</b> Linguagens</h3>
 <p align="left">
