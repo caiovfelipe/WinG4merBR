@@ -1,6 +1,6 @@
-<h1>🦊 | Olá! </h1>
+<h1> | Olá! </h1>
 
-<p>Olá! Eu sou o Win(Vitor) sou o criador da <a href="https://foxywebsite.ml">Foxy</a>
+<p>Olá! Eu sou o Win(Vitor) sou o criador da <a href="https://foxywebsite.ml">Foxy</a> e eu gosto de raposas, Snoop Dogg, Reggae, etc
 
    <h3 align="left">🔨 <b>|</b> Linguagens</h3>
 <p align="left">
@@ -16,7 +16,7 @@
 </p>
 
 <details>
-  <summary>😛 | Pretendo estudar</summary>
+  <summary>🦦 | Pretendo estudar</summary>
   <ul>
      <li>C</li>
       <li>C++</li>
@@ -27,7 +27,7 @@
 <h3 align="left">🔨 <b>|</b> Ferramentas</h3>
 <p align="left">
     <a href="https://www.microsoft.com/pt-br/windows" target="_blank">
-        <img src="./assets/img/windows11-logo.png" width="50" height="50"> </a>
+        <img src="./assets/img/win10.png" width="50" height="50"> </a>
     <a href="https://ubuntu.com/" target="_blank">
         <img src="./assets/img/ubuntu.png" width="50" height="50">
    </a>
@@ -48,9 +48,17 @@
    </a>
        <a href="https://mongodb.com" target="_blank"> <img src="./assets/img/mongodb.png" width="40" height="40"/>
           </a>
+                 <a href="https://discord.dev" target="_blank"> <img src="./assets/img/DiscordAPI.png" width="40" height="40"/>
+          </a>
 </p>
 <h3 align="left"> 📱 <b>|</b> Contato </h3>
 <ul align="left">
-    <li>Discord: <a href="https://discord.com/users/687867247116812378">Win 友#1979</a></li>
+    <li>Discord: <a href="https://discord.com/users/687867247116812378">Win#1979</a></li>
     <li>Twitter: <a href="https://twitter.com/WinG4merBR">@WinG4merBR</a></li>
 </ul>
+
+
+
+
+<br>
+<a href="https://discord.com/app" target="_blank"> <img src="./assets/img/spinDiscordAPI.gif" width="40" height="40"/></a>
