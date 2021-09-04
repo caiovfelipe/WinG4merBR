@@ -1,4 +1,4 @@
-<h1> | Olá! </h1>
+<h1>👋 | Olá! </h1>
 
 <p>Olá! Eu sou o Win(Vitor) sou o criador da <a href="https://foxywebsite.ml">Foxy</a> e eu gosto de raposas, Snoop Dogg, Reggae, etc
 
