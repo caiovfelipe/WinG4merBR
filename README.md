@@ -27,7 +27,7 @@
 <h3 align="left">🔨 <b>|</b> Ferramentas</h3>
 <p align="left">
     <a href="https://www.microsoft.com/pt-br/windows" target="_blank">
-        <img src="./assets/img/win10.png" width="50" height="50"> </a>
+        <img src="./assets/img/_NSAKEY.png" width="50" height="50"> </a>
     <a href="https://ubuntu.com/" target="_blank">
         <img src="./assets/img/ubuntu.png" width="50" height="50">
    </a>
